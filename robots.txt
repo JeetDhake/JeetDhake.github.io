@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://JeetDhake.github.io/sitemap.xml
