@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://JeetDhake.github.io/sitemap.xml
+Sitemap: https://jeetdhake.github.io/sitemap.xml
