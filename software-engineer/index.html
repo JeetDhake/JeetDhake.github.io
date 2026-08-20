@@ -57,6 +57,27 @@
         }
       }
     </script>
+  
+    <script type="application/ld+json">
+{
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+            {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Home",
+                  "item": "https://jeetdhake.github.io/"
+            },
+            {
+                  "@type": "ListItem",
+                  "position": 2,
+                  "name": "Software Engineer",
+                  "item": "https://jeetdhake.github.io/software-engineer/"
+            }
+      ]
+}
+    </script>
   </head>
   <body>
     <header>
@@ -70,6 +91,13 @@
       </nav>
     </header>
     <main>
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumbs">
+          <li><a href="/">Home</a></li>
+          <li aria-current="page">Software Engineer</li>
+        </ol>
+      </nav>
+
       <article>
         <h1>Jeet Dhake — Software Development Engineer</h1>
         <p>
